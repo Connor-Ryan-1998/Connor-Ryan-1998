@@ -9,9 +9,9 @@
   <a href="https://www.linkedin.com/in/connormartinryan/">LinkedIn</a><br>
 </details>
 
-[![GitHub Connor](https://img.shields.io/github/followers/Connor-Ryan-1998&?label=follow&style=social)](https://github.com/Connor-Ryan-1998&)
-
-**Languages and Tools:**
+[![GitHub Connor](https://img.shields.io/github/followers/Connor-Ryan-1998?label=follow&style=social)](https://github.com/Connor-Ryan-1998)
+  
+**Languages and Tools (Private Repo's not exposed 😔):**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -40,6 +40,6 @@
 
 <div align="center">
 
-### have a look around. See if theres anything you fancy!
+### have a meander 
 
 </div>

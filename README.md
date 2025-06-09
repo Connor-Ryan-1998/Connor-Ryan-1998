@@ -23,6 +23,7 @@ I'm a passionate **Data Engineer** based in **Australia** with a strong backgrou
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Connor-Ryan-1998&repo=data-sentry&theme=default&hide_border=true)](https://github.com/Connor-Ryan-1998/data-sentry)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Connor-Ryan-1998&repo=WitnessTheFitness&theme=default&hide_border=true)](https://github.com/Connor-Ryan-1998/WitnessTheFitness)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Connor-Ryan-1998&repo=BinanceTradingBot&theme=default&hide_border=true)](https://github.com/Connor-Ryan-1998/BinanceTradingBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Connor-Ryan-1998&repo=Stock-WebApp-Docker&theme=default&hide_border=true)](https://github.com/Connor-Ryan-1998/Stock-WebApp-Docker)
 
 ## Contact
 
